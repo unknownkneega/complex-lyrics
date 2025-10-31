@@ -1,0 +1,14 @@
+[{
+    "name": "complex-lyrics",
+    "description": "Spicetify extension to show Lyrics, with some useful functions",
+    "preview": "simple-lyrics.gif",
+    "main": "./built/custom_lyrics.js",
+    "readme": "README.md",
+    "branch": "main",
+    "authors": [
+        { "name": "KOlCI", "url": "https://github.com/KOlCIqwq" }
+    ],
+    "tags": [
+        "lyrics", "copy", "translate", "translation"
+    ]
+}]
